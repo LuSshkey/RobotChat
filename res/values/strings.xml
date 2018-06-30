@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能小精灵</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+    
+<!-- 添加欢迎语 -->
+    <string-array name="welcome_tips">
+        <item>主人，您好！O(∩_∩)O</item>
+        <item>亲，你回来啦~</item>
+        <item>Welcome!!</item>
+        <item>呵呵，你来啦~</item>
+        <item>Hi, long time no see !</item>
+    </string-array>
+</resources>
